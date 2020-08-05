@@ -11,9 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   PE/WD
    
 Indices and tables
 ==================
    
-   PE/WD
+  

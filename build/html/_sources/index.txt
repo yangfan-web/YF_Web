@@ -10,10 +10,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+entertainment\WD
 
    
 Indices and tables
 ==================
    
-   PE/WD
+  

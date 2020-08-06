@@ -1,1 +1,1 @@
-Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:[],modul:[],page:[],search:[]},titles:["Welcome to YF_Web&#8217;s documentation!"],titleterms:{document:0,indice:0,tabl:0,welcom:0,yf_web:0}})
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,entertainmentwd:0,index:[],modul:[],page:[],search:[]},titles:["Welcome to YF_Web&#8217;s documentation!"],titleterms:{document:0,indice:0,tabl:0,welcom:0,yf_web:0}})
